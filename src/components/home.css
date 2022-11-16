@@ -1,0 +1,14 @@
+.cards_content{
+    
+    background-color: gray;
+    padding: 30px;
+    width: 300px;
+    margin: auto;
+
+}
+.cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
